@@ -4,9 +4,9 @@ Debugging Code
 ```
 ## Getting Started
 
-'''
+"""
 When we run this code ,we do not have output.
-'''
+"""
 
 
 ## Prerequisites
